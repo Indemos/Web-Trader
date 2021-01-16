@@ -1,4 +1,4 @@
-# Web-Trader 
+# Stock Trader - Web Version
 
 Experimental Blazor app that can connect to various trading gateway, receive quotes, and send orders. 
 In this version, only simulated gateway with preloaded quotes is available. 
